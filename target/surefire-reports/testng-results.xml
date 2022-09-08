@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-08T18:40:39 BST" name="All Test Suite" finished-at="2022-09-08T18:41:00 BST" duration-ms="20415">
+    <groups>
+    </groups>
+    <test started-at="2022-09-08T18:40:39 BST" name="demoTests" finished-at="2022-09-08T18:41:00 BST" duration-ms="20415">
+      <class name="tests.testCase">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:tests.testCase@71c8becc]" started-at="2022-09-08T18:40:40 BST" name="LaunchApplication" finished-at="2022-09-08T18:40:48 BST" duration-ms="8543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="testCase1()[pri:0, instance:tests.testCase@71c8becc]" started-at="2022-09-08T18:40:48 BST" name="testCase1" finished-at="2022-09-08T18:41:00 BST" duration-ms="11363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.testCase@71c8becc]" started-at="2022-09-08T18:41:00 BST" name="tearDown" finished-at="2022-09-08T18:41:00 BST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.testCase -->
+    </test> <!-- demoTests -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
